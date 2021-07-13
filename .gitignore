@@ -1,1 +1,11 @@
+#node
 node_modules
+
+# dependencies
+.pnp.js
+
+# yarn
+.yarn/
+yarn.lock
+.yarnrc.yml
+.yarn/build-state.yml
