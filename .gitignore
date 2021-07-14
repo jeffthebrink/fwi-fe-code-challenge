@@ -6,6 +6,5 @@ node_modules
 
 # yarn
 .yarn/
-yarn.lock
 .yarnrc.yml
 .yarn/build-state.yml
